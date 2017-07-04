@@ -4,5 +4,7 @@
         <page name='index'/>
         <page name='Tuplas'/>
         <page name='Structs'/>
+        <page name='Protocols-extensions'/>
+        <page name='Classes'/>
     </pages>
 </playground>

@@ -2,7 +2,8 @@
 /*:
  * Tuplas
  * Structs
- * Clases
+ * Protocolos & Extensiones
+ * Classes
  * Enums
  */
 
