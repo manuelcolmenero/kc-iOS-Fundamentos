@@ -1,7 +1,10 @@
-//: [Previous](@previous)
+// Creando nuevos tipos
+/*:
+ * Tuplas
+ * Structs
+ * Clases
+ * Enums
+ */
 
-import Foundation
-
-var str = "Hello, playground"
 
 //: [Next](@next)
